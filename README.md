@@ -1,5 +1,5 @@
 # CollatzConjecture
-Ryan Dynski Wyndham White
+Ryan Dynski and Wyndham White
 
 We were inspired by Edmund Harris’ visualization of the Collatz Conjecture
 By treating each step of the sequence as a binary output making a trail turn left or right, this picture can be produced
